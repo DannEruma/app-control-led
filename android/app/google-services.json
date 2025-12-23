@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "809872620716",
+    "firebase_url": "https://led-final-test-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "led-final-test",
+    "storage_bucket": "led-final-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809872620716:android:6a6ac27e045ec19e5db309",
+        "android_client_info": {
+          "package_name": "com.example.app_led"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxc9rhOnGTfVKwY-ZSmzyg79FoAO4lphw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
