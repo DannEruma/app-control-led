@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAa2plIiVJVhQz1aYRFU_JpkQvEG9Adk_o',
-    appId: '1:809872620716:web:ce6088ac479492895db309',
+    apiKey: 'Api WEB',
+    appId: 'App ID',
     messagingSenderId: '809872620716',
     projectId: 'led-final-test',
     authDomain: 'led-final-test.firebaseapp.com',
@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCxc9rhOnGTfVKwY-ZSmzyg79FoAO4lphw',
-    appId: '1:809872620716:android:6a6ac27e045ec19e5db309',
+    apiKey: 'API ANDROID',
+    appId: 'App ID',
     messagingSenderId: '809872620716',
     projectId: 'led-final-test',
     storageBucket: 'led-final-test.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCtt5v5XTPGp_HKFrvKmM1dMeTXjT87j9k',
-    appId: '1:809872620716:ios:bc926b858f0e32795db309',
+    apiKey: 'API IOS',
+    appId: 'APP ID',
     messagingSenderId: '809872620716',
     projectId: 'led-final-test',
     storageBucket: 'led-final-test.firebasestorage.app',
@@ -67,8 +67,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCtt5v5XTPGp_HKFrvKmM1dMeTXjT87j9k',
-    appId: '1:809872620716:ios:bc926b858f0e32795db309',
+    apiKey: 'API MACOS',
+    appId: 'APP ID',
     messagingSenderId: '809872620716',
     projectId: 'led-final-test',
     storageBucket: 'led-final-test.firebasestorage.app',
@@ -76,8 +76,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAa2plIiVJVhQz1aYRFU_JpkQvEG9Adk_o',
-    appId: '1:809872620716:web:4e09f86f69f70aef5db309',
+    apiKey: 'API WIN',
+    appId: 'APP ID',
     messagingSenderId: '809872620716',
     projectId: 'led-final-test',
     authDomain: 'led-final-test.firebaseapp.com',
